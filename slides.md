@@ -101,6 +101,18 @@ li {
         <td>Built in</td>
       </v-clicks>
     </tr>
+    <tr>
+      <v-clicks>
+        <td>ESLint/Prettier</td>
+        <td>Elm Format</td>
+      </v-clicks>
+    </tr>
+    <tr>
+      <v-clicks>
+        <td>Jest/Mocha</td>
+        <td>Elm Test</td>
+      </v-clicks>
+    </tr>
   </tbody>
 </table>
 
@@ -119,7 +131,7 @@ td:last-child {
 
 td {
   width: 50%;
-  padding: 1.5rem 0;
+  padding: 1rem 0;
   text-align: center;
 }
 
